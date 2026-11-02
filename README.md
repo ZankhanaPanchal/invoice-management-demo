@@ -19,8 +19,25 @@ Open `index.html` in a browser. No credentials, build process, backend, or datab
 ## Live demo
 After enabling GitHub Pages, add the live URL here.
 
-## Screenshots
-Create screenshots from the working demo with fictional information and put them in `screenshots/`.
+## 📸 Application Screenshots
+
+### 1. Invoice Dashboard
+![Invoice Dashboard](screenshots/MainDashboard.png)
+![Invoice Dashboard](screenshots/OperationsPortalDashboard.png)
+![Invoice Dashboard](screenshots/OperationsPortalDetail1.png)
+![Invoice Dashboard](screenshots/OperationsPortalDetail2.png)
+![Invoice Dashboard](screenshots/DriversPortalDashboard.png)
+![Invoice Dashboard](screenshots/DriversPortalDetail1.png)
+
+### 2. Create Invoice
+![Create Invoice](screenshots/DriversPortalDetail2.png)
+
+### 3. Invoice Calculations
+![Invoice Calculations](screenshots/DriverInvoicePreview.png)
+
+### 4. Printable Invoice Preview
+![Invoice Preview](screenshots/InvoiceConfirmationonEmail.png)
+![Invoice Preview](screenshots/InvoicePdf.png)
 
 ## Limitations
 This is **not** a production accounting tool. There is no login, cloud database, payment handling, tax advice, or backend API. The tax percentage is merely a user-entered demo value. Browser storage can be cleared.
