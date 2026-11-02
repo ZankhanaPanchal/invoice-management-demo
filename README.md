@@ -22,9 +22,9 @@ After enabling GitHub Pages, add the live URL here.
 ## 📸 Application Screenshots
 
 ### 1. Invoice Dashboard
-![Invoice Dashboard](screenshots/MainDashboard.png)
-![Invoice Dashboard](screenshots/OperationsPortalDashboard.png)
-![Invoice Dashboard](screenshots/OperationsPortalDetail1.png)
+![Invoice Dashboard](screenshots/MainDashboard.jpg)
+![Invoice Dashboard](screenshots/OperationsPortalDashboard.jpg)
+![Invoice Dashboard](screenshots/OperationsPortalDetail1.jpg)
 ![Invoice Dashboard](screenshots/OperationsPortalDetail2.png)
 ![Invoice Dashboard](screenshots/DriversPortalDashboard.png)
 ![Invoice Dashboard](screenshots/DriversPortalDetail1.png)
