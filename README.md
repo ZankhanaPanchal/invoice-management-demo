@@ -25,19 +25,19 @@ After enabling GitHub Pages, add the live URL here.
 ![Invoice Dashboard](screenshots/MainDashboard.jpg)
 ![Invoice Dashboard](screenshots/OperationsPortalDashboard.jpg)
 ![Invoice Dashboard](screenshots/OperationsPortalDetail1.jpg)
-![Invoice Dashboard](screenshots/OperationsPortalDetail2.png)
-![Invoice Dashboard](screenshots/DriversPortalDashboard.png)
-![Invoice Dashboard](screenshots/DriversPortalDetail1.png)
+![Invoice Dashboard](screenshots/OperationsPortalDetail2.jpg)
+![Invoice Dashboard](screenshots/DriversPortalDashboard.jpg)
+![Invoice Dashboard](screenshots/DriversPortalDetail1.jpg)
 
 ### 2. Create Invoice
-![Create Invoice](screenshots/DriversPortalDetail2.png)
+![Create Invoice](screenshots/DriversPortalDetail2.jpg)
 
 ### 3. Invoice Calculations
-![Invoice Calculations](screenshots/DriverInvoicePreview.png)
+![Invoice Calculations](screenshots/DriverInvoicePreview.jpg)
 
 ### 4. Printable Invoice Preview
-![Invoice Preview](screenshots/InvoiceConfirmationonEmail.png)
-![Invoice Preview](screenshots/InvoicePdf.png)
+![Invoice Preview](screenshots/InvoiceConfirmationonEmail.jpg)
+![Invoice Preview](screenshots/InvoicePdf.jpg)
 
 ## Limitations
 This is **not** a production accounting tool. There is no login, cloud database, payment handling, tax advice, or backend API. The tax percentage is merely a user-entered demo value. Browser storage can be cleared.
